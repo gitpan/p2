@@ -20,5 +20,5 @@ no_index:
 requires: {}
 resources:
   license: http://dev.perl.org/licenses/
-  repository: http://github.com/rurban/p2-pragma
-version: 0.01
+  repository: http://github.com/perl11/p2-pragma
+version: 0.02
